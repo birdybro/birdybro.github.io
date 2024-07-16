@@ -56,3 +56,4 @@ ext/                    # Directory that contains code for the custom slugs
 hooks/                  # Directory for a hook that adds social media share buttons
 ```
 
+ 
