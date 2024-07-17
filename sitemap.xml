@@ -21,12 +21,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://birdybro.github.io/blog/author/team/</loc>
+         <loc>https://birdybro.github.io/blog/author/birdybro/</loc>
          <lastmod>2024-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://birdybro.github.io/blog/2023/12/31/ny-eve/</loc>
+         <loc>https://birdybro.github.io/blog/2024/07/17/ny-eve/</loc>
          <lastmod>2024-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -66,7 +66,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://birdybro.github.io/blog/archive/2023/</loc>
+         <loc>https://birdybro.github.io/blog/category/debate/</loc>
+         <lastmod>2024-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://birdybro.github.io/blog/category/robby/</loc>
+         <lastmod>2024-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://birdybro.github.io/blog/category/birdybro/</loc>
          <lastmod>2024-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
