@@ -19,7 +19,7 @@ tags:
   - robby
 authors:
   - birdybro
-slug: ny-eve
+slug: birdybro-owns-robby
 ---
 
 # Why BirdyBro Outshines Robby: A Comparative Analysis
